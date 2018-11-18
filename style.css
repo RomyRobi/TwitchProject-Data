@@ -19,7 +19,7 @@
 }
 
 img {
-  opacity: .8;
+  opacity: .7;
 }
 
 .dropdown-item {
@@ -70,13 +70,34 @@ p {
 }
 
 h2 {
-  color: #f8f9fa;
-  background-color: #9583CD;
+    text-align: center;
+    color: #f8f9fa;
+    background-color: #9583CD;
     padding-left: 25px;
     padding-right: 25px;
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: .25rem;
+}
+
+h4 {
+  text-align: center;
+  color: #f8f9fa;
+  background-color: #9583CD;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: .25rem;
+}
+
+h5 {
+  color: #6c757d;
+  text-align: center;
+}
+
+.thumbnail {
+  padding:20px;
 }
 
 .col-md-5 {
